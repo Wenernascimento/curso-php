@@ -1,0 +1,19 @@
+Body {
+    background-color: rgb(215, 219, 233);
+    font-family: 'Arial', sans-serif;
+}
+          
+          
+          
+          h1 {
+            color: rgb(175, 236, 91);
+ background-color: hsl(273, 27%, 8%);         
+             padding: 20px;
+            text-align:center;         
+        }
+        h2{
+            text-align: center;
+
+        }
+
+     
